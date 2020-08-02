@@ -1,0 +1,7 @@
+﻿<root>
+  <timeSleep>1200</timeSleep>
+  <process name="excel">
+    <popup title="Microsoft Excel" value="Sorry, Excel can't open two workbooks with the same" />
+    <popup title="Microsoft Excel" value="Sorry, we couldn't find" button="OK"/>    
+  </process>
+</root>

@@ -1,0 +1,9 @@
+HOSTNAME: DESKTOP-H6U862N | PROCESS: excel |POPUP: Microsoft Excel | TEXT: Sorry, we couldn't find C:\Users\Dev\Downloads\ejemplo2.csv. Is it possible it was moved, renamed or deleted? | TIMESPAM: 4/22/2020 3:33:46 PM | STATE: Closed
+HOSTNAME: DESKTOP-H6U862N | PROCESS: excel |POPUP: Microsoft Excel | TEXT: Sorry, Excel can't open two workbooks with the same name at the same time. | TIMESPAM: 4/22/2020 3:34:06 PM | STATE: Closed
+HOSTNAME: DESKTOP-H6U862N | PROCESS: excel |POPUP: Microsoft Excel | TEXT: Sorry, we couldn't find C:\Users\Dev\Downloads\ejemplo2.csv. Is it possible it was moved, renamed or deleted? | TIMESPAM: 4/22/2020 4:13:34 PM | STATE: Closed
+HOSTNAME: DESKTOP-H6U862N | PROCESS: excel |POPUP: Microsoft Excel | TEXT: Sorry, Excel can't open two workbooks with the same name at the same time. | TIMESPAM: 4/22/2020 4:14:00 PM | STATE: Closed
+HOSTNAME: DESKTOP-H6U862N | PROCESS: excel |POPUP: Microsoft Excel | TEXT: Sorry, Excel can't open two workbooks with the same name at the same time. | TIMESPAM: 4/27/2020 9:14:49 AM | STATE: Closed
+HOSTNAME: DESKTOP-H6U862N | PROCESS: excel |POPUP: Microsoft Excel | TEXT: Sorry, Excel can't open two workbooks with the same name at the same time. | TIMESPAM: 4/27/2020 9:15:08 AM | STATE: Closed
+HOSTNAME: DESKTOP-H6U862N | PROCESS: excel |POPUP: Microsoft Excel | TEXT: Sorry, Excel can't open two workbooks with the same name at the same time. | TIMESPAM: 4/27/2020 9:15:24 AM | STATE: Closed
+HOSTNAME: DESKTOP-H6U862N | PROCESS: excel |POPUP: Microsoft Excel | TEXT: Sorry, Excel can't open two workbooks with the same name at the same time. | TIMESPAM: 4/27/2020 9:15:32 AM | STATE: Closed
+HOSTNAME: DESKTOP-H6U862N | PROCESS: excel |POPUP: Microsoft Excel | TEXT: Sorry, Excel can't open two workbooks with the same name at the same time. | TIMESPAM: 4/27/2020 9:15:45 AM | STATE: Closed
